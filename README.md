@@ -32,12 +32,12 @@ $ pip install PyQt5
 
 <p align=center>
   <img src="https://i.imgur.com/m0Ydy23.png"/>
-  <br>Telas principal/br>
+  <br>Tela principal</br>
 </p>
 
 <p align=center>
   <img src="https://i.imgur.com/ayPKIGK.png"/>
-  <br>Telas de cadastro de clientes/br>
+  <br>Tela de cadastro de clientes</br>
 </p>
 
 
