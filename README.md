@@ -8,7 +8,7 @@
   
 </p>
   
-  ## installation
+  ## instalação
 
 ```console
 
